@@ -1,0 +1,26 @@
+{
+  "name": "hng-x-i4g-backend-task-submission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lekandev/HNG-x-I4G-backend-task-submission.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lekandev/HNG-x-I4G-backend-task-submission/issues"
+  },
+  "homepage": "https://github.com/lekandev/HNG-x-I4G-backend-task-submission#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.15.5"
+  }
+}
